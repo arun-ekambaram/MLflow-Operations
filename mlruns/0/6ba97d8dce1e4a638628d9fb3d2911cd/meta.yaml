@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arunekambaram/Desktop/mlflow-test/mlruns/0/6ba97d8dce1e4a638628d9fb3d2911cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ba97d8dce1e4a638628d9fb3d2911cd
+run_name: burly-swan-72
+run_uuid: 6ba97d8dce1e4a638628d9fb3d2911cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644884366
+status: 1
+tags: []
+user_id: arunekambaram
